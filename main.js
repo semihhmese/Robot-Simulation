@@ -1,5 +1,5 @@
 var scene = new THREE.Scene();
-
+//todo: review code
 // Camera
 var aspect = window.innerWidth / window.innerHeight;
 var camera = new THREE.PerspectiveCamera(60, aspect, 0.1, 1000);
